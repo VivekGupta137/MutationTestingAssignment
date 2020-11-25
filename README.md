@@ -24,17 +24,36 @@ Project built by - Vivek Gupta (MT2019137) and Vivek Chaudhary(MT2019136)
 2. Select the pom.xml file and click Ok
 3. Choose the option Open as Project
 
-##### URLs:
+##### References:
 Reporting Goal Documentation
 http://pitest.org/quickstart/maven/
 
 Maven SCM plugin
 https://maven.apache.org/scm/maven-scm-plugin/usage.html
 
-Incremental Analysis Documentation
-http://pitest.org/quickstart/incremental_analysis/
+### Individual Contribution
+###### Contribution towards Project Code:
 
-How fast (or slow) mutation testing really is?
-https://solidsoft.wordpress.com/2017/09/19/how-fast-or-slow-mutation-testing-really-is/
+Vivek Gupta: `RewardService, RewardInformation, Product, Maven Configuration`
 
+Vivek Chaudhary: `RewardByConversionService, RewardByDiscountService, RewardByGiftService`
 
+###### Contribution towards Test Cases:
+
+Vivek Gupta: 8 testcases
+
+Vivek Chaudhary: 8 testcases
+
+###### Contribution towards Documentation:
+
+Vivek Gupta:
+1. Need of mutation testing
+2. Business Logic
+3. Mutation testing brief
+4. Disadvantages of mutation testing
+
+Vivek Chaudhary:
+1. Project brief
+2. Class diagram
+3. Tools used
+4. Test Report
